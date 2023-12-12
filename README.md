@@ -1,6 +1,6 @@
 # Анализ рынка автомобилей в Республике Казахстан
 
- [ipynb](https://github.com/malyshevanatalya/portfolio/blob/Car-market-of-Kazakhstan/car_market%20.ipynb)
+[ipynb](https://github.com/malyshevanatalya/portfolio/blob/main/Car%20market/car_market.ipynb)
 
 ## Описание проекта
 
